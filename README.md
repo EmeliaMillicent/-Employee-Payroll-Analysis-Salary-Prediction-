@@ -1,6 +1,6 @@
 # Employee Payroll Analysis & Salary Prediction
 
-Analyze employee payroll data to uncover salary patterns and predict **Base Pay** using machine learning.  
+I analyzed employee payroll data to uncover salary patterns and predict **Base Pay** using machine learning.  
 This project demonstrates a full data science workflow: data cleaning, EDA, outlier handling, feature engineering, model building, and visualization.  
 **Gradient Boosting** delivers strong predictive performance while revealing key factors influencing salaries.  
 
@@ -86,10 +86,10 @@ It demonstrates a complete data science workflow, combining predictive accuracy 
 ---
 
 ## **Project Files**
-- `Employee_Payroll.csv` – dataset  
+- `Employee_Payroll.csv` – dataset - ( the dataset was too large so i could not load it here) 
 - `Employee_Payroll_Analysis.ipynb` – Jupyter Notebook with full analysis  
 - `README.md` – project documentation  
 
----
+
 
 
